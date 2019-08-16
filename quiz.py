@@ -26,3 +26,5 @@ except:
 
 for n in newdata:
    writer.writerow(n)
+
+newdata
